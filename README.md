@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @don-najd
+- 👋 Hi, I’m @don
 - 👀 I’m interested in Rails, Node.js, React & everything else web programming
 - 🌱 I’m currently learning how to be a dog owner. lol
 
